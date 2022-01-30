@@ -5,7 +5,7 @@ alias caffeinate="caffeinate -d"
 alias cdgd="cd ~/Google\ Drive/My\ Drive"
 
 # local path
-export PATH="~/bin:${PATH}"
+export PATH="$HOME/bin:${PATH}"
 
 # displays purple prompt with
 # [hostname time cwd]
